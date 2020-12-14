@@ -328,6 +328,17 @@ OpenCover/
 # Azure Stream Analytics local run output
 ASALocalRun/
 
+# Visual Studio Code 
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
 # MSBuild Binary and Structured Log
 *.binlog
 
